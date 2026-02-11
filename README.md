@@ -1,7 +1,8 @@
-#Cyber Guard
 # 🛡️ Gamified Cyber Security Learning Platform
 
 An interactive, gamified platform for learning cybersecurity fundamentals through hands-on challenges and missions. Master essential security concepts while competing on a global leaderboard.
+
+🔗 **[Live Demo](https://cyber-guard-proj.vercel.app)**
 
 ![Cyber Security](https://img.shields.io/badge/security-cybersecurity-red)
 ![React](https://img.shields.io/badge/react-18.3.1-blue)
@@ -50,8 +51,8 @@ An interactive, gamified platform for learning cybersecurity fundamentals throug
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/prayas-bit/hack-proj.git
-cd hack-proj
+git clone https://github.com/prayas-bit/Cyber-Guard.git
+cd Cyber-Guard
 ```
 
 2. **Install dependencies**
